@@ -1,2 +1,1 @@
-# Demo_Hibernate
-Hibernate Demo
+# HangHibernate_CustomModel
